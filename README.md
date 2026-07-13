@@ -1,44 +1,62 @@
-<h1 align="center">Hola, soy Anurdweb! 👋</h1>
-<p align="center">
-  <em>Desarrollador Web | Enfocado en experiencias digitales premium y alto rendimiento.</em>
-</p>
-
-<br>
-
-<h2 align="center">🚀 Proyectos Destacados</h2>
-
-<div align="center">
-
-  <!-- AURA ESTATE -->
-  <h3>◈ Aura Estate</h3>
-  <p><em>Portal inmobiliario de lujo con transiciones fluidas y estética minimalista.</em></p>
-  <a href="https://github.com/programar2026web-pixel/aura-estate"><b>[ Ver Código Fuente ]</b></a>
-  <br><br>
-
-  <!-- BURGER & CO -->
-  <h3>◈ Burger & Co</h3>
-  <p><em>Interfaz gastronómica dinámica con menús interactivos.</em></p>
-  <a href="https://burguer-co.netlify.app/"><b>[ Ver Proyecto en Vivo ]</b></a>
-  <br><br>
-
-  <!-- SOULMOTION -->
-  <h3>◈ SoulMotion</h3>
-  <p><em>Proyecto creativo que integra animaciones avanzadas y estructura moderna.</em></p>
-  <a href="https://soulmotion.vercel.app/"><b>[ Ver Proyecto en Vivo ]</b></a>
-  <br><br>
-
-  <!-- PORTAFOLIO -->
-  <h3>◈ Anurdweb Portfolio</h3>
-  <p><em>Mi centro de operaciones profesional donde muestro mi evolución técnica.</em></p>
-  <a href="https://anurdweb.netlify.app/"><b>[ Ver Portafolio ]</b></a>
-
+**<div align="center">
+  <h1><b>AnurDweb</b></h1>
+  <p><i>Desarrollador Web • Creador de Experiencias Digitales Premium</i></p>
+  <p>Construyendo interfaces modernas, escalables y con un alto enfoque en el diseño UX/UI y rendimiento.</p>
 </div>
 
 <br>
-<hr>
+
+## ✦ Portafolio de Proyectos
+
+Aquí presento mis trabajos más recientes, enfocados en diseño interactivo, rendimiento fluido y arquitectura moderna.
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Aura Estate</h3>
+      <p><b>Sector:</b> Real Estate de Lujo</p>
+      <p>Plataforma inmobiliaria diseñada para agencias de alto nivel. Resuelve la brecha entre la información técnica y la conexión emocional del cliente, ofreciendo una navegación inmersiva, filtros precisos y una interfaz estética premium.</p>
+      <p><i>Stack: React, Tailwind CSS, Framer Motion</i></p>
+      <a href="https://github.com/programar2026web-pixel/aura-estate">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-111111?style=for-the-badge" alt="Repositorio"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 Burger & Co</h3>
+      <p><b>Sector:</b> Gastronomía & E-Commerce</p>
+      <p>Interfaz gastronómica altamente dinámica. Desarrollada para optimizar la experiencia del usuario al explorar menús interactivos, priorizando la velocidad de carga, interactividad y un flujo de navegación muy intuitivo.</p>
+      <p><i>Stack: UI Interactiva, JavaScript, CSS Moderno</i></p>
+      <a href="https://burguer-co.netlify.app/">
+        <img src="https://img.shields.io/badge/Ver_Demo_en_Vivo-222222?style=for-the-badge" alt="Demo en vivo"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ SoulMotion</h3>
+      <p><b>Sector:</b> Agencia Creativa</p>
+      <p>Un proyecto visualmente impactante que empuja los límites del diseño web. Integra animaciones avanzadas y un entorno interactivo para contar una historia visual fluida y retener por completo la atención del usuario.</p>
+      <p><i>Stack: Arquitectura Moderna, Animaciones Avanzadas</i></p>
+      <a href="https://soulmotion.vercel.app/">
+        <img src="https://img.shields.io/badge/Ver_Demo_en_Vivo-222222?style=for-the-badge" alt="Demo en vivo"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 AnurDweb Portfolio</h3>
+      <p><b>Sector:</b> Marca Personal</p>
+      <p>Mi centro de operaciones digital. Un portafolio profesional construido con animaciones complejas y un diseño oscuro minimalista para presentar mis servicios, evolución técnica y los proyectos clave de mi carrera.</p>
+      <p><i>Stack: React, GSAP, Tailwind CSS</i></p>
+      <a href="https://anurdweb.netlify.app/">
+        <img src="https://img.shields.io/badge/Visitar_Portafolio-111111?style=for-the-badge" alt="Portafolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<h2 align="center">🛠 Tecnologías</h2>
-<p align="center">
-  <code>React</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>Git</code> • <code>GitHub</code>
-</p>
+## ⚙️ Enfoque Técnico
+
+*   **Arquitectura Frontend:** Desarrollo de interfaces reactivas con código limpio y escalable.
+*   **Diseño (UI/UX):** Implementación de sistemas de diseño minimalistas y centrados absolutamente en el usuario.
+*   **Performance:** Optimización de tiempos de carga, transiciones fluidas y estructuras semánticas.**
